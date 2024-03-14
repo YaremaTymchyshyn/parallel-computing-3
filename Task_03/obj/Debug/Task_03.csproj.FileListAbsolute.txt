@@ -1,0 +1,7 @@
+D:\3rd course\Parallel Computing\Task_03\bin\Debug\Task_03.exe.config
+D:\3rd course\Parallel Computing\Task_03\bin\Debug\Task_03.exe
+D:\3rd course\Parallel Computing\Task_03\bin\Debug\Task_03.pdb
+D:\3rd course\Parallel Computing\Task_03\obj\Debug\Task_03.csproj.AssemblyReference.cache
+D:\3rd course\Parallel Computing\Task_03\obj\Debug\Task_03.csproj.CoreCompileInputs.cache
+D:\3rd course\Parallel Computing\Task_03\obj\Debug\Task_03.exe
+D:\3rd course\Parallel Computing\Task_03\obj\Debug\Task_03.pdb

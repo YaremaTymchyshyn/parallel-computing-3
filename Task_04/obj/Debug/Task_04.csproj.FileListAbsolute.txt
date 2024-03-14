@@ -1,0 +1,6 @@
+D:\3rd course\Parallel Computing\Task_04\obj\Debug\Task_04.csproj.CoreCompileInputs.cache
+D:\3rd course\Parallel Computing\Task_04\bin\Debug\Task_04.exe.config
+D:\3rd course\Parallel Computing\Task_04\bin\Debug\Task_04.exe
+D:\3rd course\Parallel Computing\Task_04\bin\Debug\Task_04.pdb
+D:\3rd course\Parallel Computing\Task_04\obj\Debug\Task_04.exe
+D:\3rd course\Parallel Computing\Task_04\obj\Debug\Task_04.pdb
